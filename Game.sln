@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Game", "Game.jsproj", "{0774D6CD-29DD-48D1-B4C1-5BB710E5025A}"
+Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "Game", "Game\Game.jsproj", "{0774D6CD-29DD-48D1-B4C1-5BB710E5025A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E56D804F-641A-474B-9A5D-70669F35740A}"
 	ProjectSection(SolutionItems) = preProject
